@@ -1,4 +1,28 @@
-.first-line {
-  color : red;
-  
+.main-page {
+  display: flex;
+  justify-content: center;
+}
+
+.projects-placeholder {
+  width: 1000px;
+  height: 750px;
+  border: 2px solid;
+  padding: 20px;
+  margin: 20px;
+}
+
+.profile-placeholder {
+  width: 500px;
+  height: 750px;
+  border: 2px solid;
+  padding: 20px;
+  margin: 20px;
+}
+
+.projects-page {
+  width: 1520px;
+  height: 750px;
+  border: 2px solid;
+  padding: 20px;
+  margin: 20px;
 }
